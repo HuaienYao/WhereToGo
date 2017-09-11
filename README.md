@@ -90,7 +90,7 @@
 
 ### 其他
 
-【[美团点评技术团队](http://tech.meituan.com/)】【[ManiacDev](https://maniacdev.com/)】【[InfoQ](http://www.infoq.com/cn/)】【[微信移动开发](https://github.com/WeMobileDev/article)】【[刘未鹏](http://mindhacks.cn/)】【[结构之法 算法之道](http://blog.csdn.net/v_july_v)】【[微信读书](https://wereadteam.github.io/)】
+【[美团点评技术团队](http://tech.meituan.com/)】【[ManiacDev](https://maniacdev.com/)】【[InfoQ](http://www.infoq.com/cn/)】【[微信移动开发](https://github.com/WeMobileDev/article)】【[刘未鹏](http://mindhacks.cn/)】【[结构之法 算法之道](http://blog.csdn.net/v_july_v)】【[微信读书](https://wereadteam.github.io/)】【[MDN](https://developer.mozilla.org/zh-CN/)】
 
 ***
 
@@ -317,7 +317,7 @@
 
 
 
-【 [在线颜色选择器 | RGB颜色查询对照表](http://www.atool.org/colorpicker.php)（[主站](http://www.atool.org/)）】【[make App icon](http://makeappicon.com/)】【[unocode emoji list](http://unicode.org/emoji/charts/full-emoji-list.html)】【[emojipedia](http://emojipedia.org/)】
+【 [在线颜色选择器 | RGB颜色查询对照表](http://www.atool.org/colorpicker.php)（[主站](http://www.atool.org/)）】【[make App icon](http://makeappicon.com/)】【[unocode emoji list](http://unicode.org/emoji/charts/full-emoji-list.html)】【[emojipedia](http://emojipedia.org/)】【[Emoji Unicode Tables](https://apps.timwhitlock.info/emoji/tables/unicode)  可查询UTF-8编码】
 
 
 
@@ -538,7 +538,7 @@
 
 
 
-【[GitHut](http://githut.info/)	 A SMALL PLACE TO DISCOVER LANGUAGES IN GITHUB】【[Gist box](https://app.gistboxapp.com)】【[omniref](https://www.omniref.com/)	Intelligent annotation for your source code.】【[First Aid git](http://firstaidgit.io/)	the most frequently asked questions about git issues】【[Pro Git v2 中文版](http://wiki.jikexueyuan.com/project/pro-git-two/)】【[GitHuber](http://githuber.info/)】【[GitHub Ranking](https://github-ranking.com)	GitHub star ranking for users, organizations and repositories.】【[Octicons icons](http://fa2png.io/r/octicons/)】【[shields io	](http://shields.io/)生成readme.md图标】【[CODELF	](http://unbug.github.io/codelf/)Search over projects from GitHub, Bitbucket, Google Code and more to find】【[Github Awards](http://github-awards.com/)】【[Gist box](https://app.gistboxapp.com)】【[Github Hunter](https://octohunt.com/)	Find Developer on github】【[GitHub Reviews](https://githubreviews.com/)】
+【[GitHut](http://githut.info/)	 A SMALL PLACE TO DISCOVER LANGUAGES IN GITHUB】【[Gist box](https://app.gistboxapp.com)】【[omniref](https://www.omniref.com/)	Intelligent annotation for your source code.】【[First Aid git](http://firstaidgit.io/)	the most frequently asked questions about git issues】【[Pro Git v2 中文版](http://wiki.jikexueyuan.com/project/pro-git-two/)】【[GitHuber](http://githuber.info/)】【[GitHub Ranking](https://github-ranking.com)	GitHub star ranking for users, organizations and repositories.】【[Octicons icons](http://fa2png.io/r/octicons/)】【[shields io](http://shields.io/) 生成readme.md图标】【[CODELF	](http://unbug.github.io/codelf/)Search over projects from GitHub, Bitbucket, Google Code and more to find】【[Github Awards](http://github-awards.com/)】【[Gist box](https://app.gistboxapp.com)】【[Github Hunter](https://octohunt.com/)	Find Developer on github】【[GitHub Reviews](https://githubreviews.com/)】
 
 
 
