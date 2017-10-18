@@ -57,6 +57,7 @@
     - [Mac](#mac) 
     - [Windows](#windows) 
     - [下载](#下载) 
+- [自媒体与阅读](#自媒体与阅读)
 
 
 
@@ -65,7 +66,7 @@
 
 ### 每日
 
-【[CocoaChina](http://www.cocoachina.com/)】【[iOS developer:tips](http://iosdevelopertips.com/)】【[NSHipster](http://nshipster.com/)（[中文站点](http://nshipster.cn/))】【[RAYWENDERLICH](https://www.raywenderlich.com/)	】【[Big Nerd Ranch](https://www.bignerdranch.com/blog/)】【[AppCoda](http://www.appcoda.com/)】【[CocoaControls](https://www.cocoacontrols.com/)】【[掘金](https://gold.xitu.io/)】										
+【[CocoaChina](http://www.cocoachina.com/)】【[iOS developer:tips](http://iosdevelopertips.com/)】【[NSHipster](http://nshipster.com/)（[中文站点](http://nshipster.cn/))】【[RAYWENDERLICH](https://www.raywenderlich.com/)	】【[Big Nerd Ranch](https://www.bignerdranch.com/blog/)】【[AppCoda](http://www.appcoda.com/)】【[CocoaControls](https://www.cocoacontrols.com/)】【[掘金](https://gold.xitu.io/)】【[Panda](https://usepanda.com/app/#/)】										
 
 
 ### 周报
@@ -80,17 +81,15 @@
 
 【[唐巧](http://blog.devtang.com/) ⭐️⭐️⭐️⭐️】【[ibireme](http://blog.ibireme.com/)⭐️⭐️⭐️⭐️⭐️】【 [喵神](https://onevcat.com/#blog)⭐️⭐️⭐️⭐️⭐️】
 
-
-
 【[玉令天下的博客](http://yulingtianxia.com/)】【[南峰子的技术博客](http://southpeak.github.io/)	】【[里脊串的开发随笔](http://adad184.com/)】【[飞行日志](http://blog.fir.im/)】						
 
 ### Swift
 
-【[iOS Cookies](http://www.ioscookies.com/) 】【[We ❤ Swift](http://www.weheartswift.com/)】【[Swift 资源集合](https://swift.zeef.com/robin.eggenkamp)】【[SoSo Swift](http://www.sososwift.com/)】【[SwiftGG](http://swift.gg/)】
+【[Swift](https://swiftlang.eu/)】【[iOS Cookies](http://www.ioscookies.com/) 】【[We ❤ Swift](http://www.weheartswift.com/)】【[Swift 资源集合](https://swift.zeef.com/robin.eggenkamp)】【[SoSo Swift](http://www.sososwift.com/)】【[SwiftGG](http://swift.gg/)】【[Hacking with swfit](https://www.hackingwithswift.com/)】
 
 ### 其他
 
-【[美团点评技术团队](http://tech.meituan.com/)】【[ManiacDev](https://maniacdev.com/)】【[InfoQ](http://www.infoq.com/cn/)】【[微信移动开发](https://github.com/WeMobileDev/article)】【[刘未鹏](http://mindhacks.cn/)】【[结构之法 算法之道](http://blog.csdn.net/v_july_v)】【[微信读书](https://wereadteam.github.io/)】【[MDN](https://developer.mozilla.org/zh-CN/)】
+【[美团点评技术团队](http://tech.meituan.com/)】【[ManiacDev](https://maniacdev.com/)】【[InfoQ](http://www.infoq.com/cn/)】【[微信移动开发](https://github.com/WeMobileDev/article)】【[刘未鹏](http://mindhacks.cn/)】【[结构之法 算法之道](http://blog.csdn.net/v_july_v)】【[微信读书](https://wereadteam.github.io/)】【[MDN](https://developer.mozilla.org/zh-CN/)】【[廖雪峰](https://www.liaoxuefeng.com/)】【[dev club](http://dev.qq.com/topic/57918dc9bbd0729d27abeb50)】
 
 ***
 
@@ -103,7 +102,7 @@
 
 
 
-【[网易公开课](http://open.163.com/)】【[MOOC 中国](http://www.mooc.cn/)】【[学堂在线](http://www.xuetangx.com/)】【[壹课堂](http://www.1ketang.com/) 】【 [中国大学MOOC](http://www.icourse163.org/) 】【 [爱课程](http://www.icourses.cn/)】【 [Open edX](https://www.edx.org/)】【 [MIT Open CourseWare](http://ocw.mit.edu/) 】【 [Open Yale course](http://oyc.yale.edu/)】【[Khan Academy](https://www.khanacademy.org)】【 [好知网](http://www.howzhi.com/) 】【[中国讲座网](http://www.chinalecture.com/)】【[公开课纪录片下载网](http://www.opclass.com/)  】【 [精品课](http://www.jingpinke.com/)  】【[北京大学公开课](http://opencourse.pku.edu.cn/course/opencourse)】【 [西安交通大学网络公开课](http://oc.xjtu.edu.cn/) 】【 [课程图谱](http://coursegraph.com/navigation/)】【[Wordnik](https://www.wordnik.com/)】【[Coursera](https://www.coursera.org) 】
+【[网易公开课](http://open.163.com/)】【[MOOC 中国](http://www.mooc.cn/)】【[学堂在线](http://www.xuetangx.com/)】【[壹课堂](http://www.1ketang.com/) 】【 [中国大学MOOC](http://www.icourse163.org/) 】【 [爱课程](http://www.icourses.cn/)】【 [Open edX](https://www.edx.org/)】【 [MIT Open CourseWare](http://ocw.mit.edu/) 】【 [Open Yale course](http://oyc.yale.edu/)】【[Khan Academy](https://www.khanacademy.org)】【 [好知网](http://www.howzhi.com/) 】【[中国讲座网](http://www.chinalecture.com/)】【[公开课纪录片下载网](http://www.opclass.com/)  】【 [精品课](http://www.jingpinke.com/)  】【[北京大学公开课](http://opencourse.pku.edu.cn/course/opencourse)】【 [西安交通大学网络公开课](http://oc.xjtu.edu.cn/) 】【 [课程图谱](http://coursegraph.com/navigation/)】【[Wordnik](https://www.wordnik.com/)】【[Coursera](https://www.coursera.org) 】【[tutorialspoint](https://www.tutorialspoint.com/index.htm)】
 
 
 
@@ -119,7 +118,7 @@
 
 
 
-【 [i黑马](http://www.iheima.com/)】【 [IT桔子](https://www.itjuzi.com/)  】【[极客公园](http://www.geekpark.net/)】【[品玩](http://www.pingwest.com/)】【[36氪](http://36kr.com/) 】【[可能吧](https://kenengba.com/) 】【[推酷](http://www.tuicool.com/)】【[浏览迷](http://liulanmi.com/)】【[Tech Web](http://www.techweb.com.cn/)】【[第九阅览室](http://9yls.net/) 】【[IT时代](http://www.itxinwen.com/)】【[科学松鼠会](http://songshuhui.net/) 】【[Engadget中国](http://cn.engadget.com/) 】【[果壳](http://www.guokr.com/)  】【[极思维](http://www.topthink.com/)】【[Free Buf](http://www.freebuf.com/)】【[创见](http://tech2ipo.com/)】【[砍柴网](http://www.ikanchai.com/)】【[创业邦](http://www.cyzone.cn/)】【[前瞻网](http://www.qianzhan.com/)】【[创投圈](https://www.vc.cn/)】【[创业谱](http://www.chuangyepu.com/)】【[比特网](http://www.chinabyte.com/)】【[艾瑞](http://www.iresearch.cn/)】【[易观](http://www.analysys.cn/)】【[KickStarter](https://www.kickstarter.com/)】【[人人都是产品经理](http://www.woshipm.com/)】【[爱范儿](http://www.ifanr.com/)】
+【 [i黑马](http://www.iheima.com/)】【 [IT桔子](https://www.itjuzi.com/)  】【[极客公园](http://www.geekpark.net/)】【[品玩](http://www.pingwest.com/)】【[36氪](http://36kr.com/) 】【[可能吧](https://kenengba.com/) 】【[推酷](http://www.tuicool.com/)】【[浏览迷](http://liulanmi.com/)】【[Tech Web](http://www.techweb.com.cn/)】【[第九阅览室](http://9yls.net/) 】【[IT时代](http://www.itxinwen.com/)】【[科学松鼠会](http://songshuhui.net/) 】【[Engadget中国](http://cn.engadget.com/) 】【[果壳](http://www.guokr.com/)  】【[极思维](http://www.topthink.com/)】【[Free Buf](http://www.freebuf.com/)】【[创见](http://tech2ipo.com/)】【[砍柴网](http://www.ikanchai.com/)】【[创业邦](http://www.cyzone.cn/)】【[前瞻网](http://www.qianzhan.com/)】【[创投圈](https://www.vc.cn/)】【[创业谱](http://www.chuangyepu.com/)】【[比特网](http://www.chinabyte.com/)】【[艾瑞](http://www.iresearch.cn/)】【[易观](http://www.analysys.cn/)】【[KickStarter](https://www.kickstarter.com/)】【[人人都是产品经理](http://www.woshipm.com/)】【[爱范儿](http://www.ifanr.com/)】【[Startup stash](http://startupstash.com/)】【 [Hacker News](https://news.ycombinator.com/)】
 
 
 
@@ -128,8 +127,7 @@
 
 
 【[全球酷站中心](http://pixid.cn/)  】【[The Sweet setup](http://thesweetsetup.com/)】【[花瓣](http://huaban.com/) 】【 [国外网站分享](http://www.egouz.com/)】【[Online Library of Liberty](http://oll.libertyfund.org/)】【[乐童音乐](http://www.musikid.com/)】【 [静雅思听](http://www.justing.com.cn/)】【[makeuserof](http://www.makeuseof.com/)】【[Answers](http://www.answers.com/) 】【[Internet Archive](https://archive.org/) 】【[Google Image Ripper](http://www.googleimageripper.com/)】【[Icon wanted](http://iconwanted.com/)】【[Brands World](http://www.brandsoftheworld.com/)】【[UICloud](http://ui-cloud.com/)】【[AMIT AGARWAL](https://ctrlq.org/)】【 [电影天堂](http://www.dytt8.net/)】【[时光网](http://www.mtime.com/)】【 [IMDB](http://www.imdb.com/) 】【[美国国家地理](http://www.natgeo.com.cn/) 】【[中国国家地理](http://www.dili360.com/)】【[西林街](http://www.xilinjie.com/)】【[盘多多](http://www.panduoduo.net/) 】
-【[CCTV纪实](http://jishi.cctv.com/index.shtml)】【[CCTV9纪录频道](http://tv.cctv.com/cctv9/)】【[3e帝国](http://bbs.3e-online.com/)】【 [高清影视下载](http://www.gaoqing.tv/)】【[地理时间](http://www.comgeo.net/)】
-
+【[CCTV纪实](http://jishi.cctv.com/index.shtml)】【[CCTV9纪录频道](http://tv.cctv.com/cctv9/)】【[3e帝国](http://bbs.3e-online.com/)】【 [高清影视下载](http://www.gaoqing.tv/)】【[地理时间](http://www.comgeo.net/)】【[电影天堂](http://www.dy2018.com/)】
 
 ### 人文时政
 
@@ -145,12 +143,11 @@
 
 【[朝鲜](http://kcna.kp/kcna.user.home.retrieveHomeInfoList.kcmsf)】【[看国外](http://www.kanguowai.com/)】【[韩联社](http://chinese.yonhapnews.co.kr/)】【[KBS](http://world.kbs.co.kr/chinese/)】
 
-
 ### 有趣
 
 
 
-【 [魔方小站](http://www.rubik.com.cn/) 】【[微博段子](http://www.tduanzi.com/)  】【[有趣的](http://www.uqude.com/) 】【[极客迷](http://www.geekfans.com/)】【[do nothing for 2 minutes](http://www.donothingfor2minutes.com/)】
+【 [魔方小站](http://www.rubik.com.cn/) 】【[微博段子](http://www.tduanzi.com/)  】【[有趣的](http://www.uqude.com/) 】【[极客迷](http://www.geekfans.com/)】【[do nothing for 2 minutes](http://www.donothingfor2minutes.com/)】【[Internet archive](https://archive.org/)】
 
 
 
@@ -163,6 +160,12 @@
 
 
 ### ebook
+
+【[docplayer](http://docplayer.net/)  offer you effective and free publishing and information sharing tools】
+
+
+
+【[dev free books](https://devfreebooks.github.io/)	A collection of free books for developers】
 
 
 
@@ -252,7 +255,7 @@
 
 
 
-【[在线工具](http://www.atool.org/)】【[Convert CSV or Excel File To SQLite](http://converttosqlite.com/)】【[DB Tools](http://www.whitetown.com/)】【[worktile](https://worktile.com)】【[站长工具](http://tool.chinaz.com/)】【[Unicode编码转换](http://tool.chinaz.com/Tools/Unicode.aspx)】【[云梯](https://www.yuntibit.com)】【[Bitbucket](https://bitbucket.org/)】【[Cocoa Docs](http://cocoadocs.org/)】【CocoaPods】【[Github](https://github.com/)】【[Open Hub](https://www.openhub.net/)】【[Code Project](http://www.codeproject.com/)】【[Code review](http://reviewcode.cn/)】
+【[在线工具](http://www.atool.org/)】【[在线工具-开源中国](http://tool.oschina.net/)】【[Convert CSV or Excel File To SQLite](http://converttosqlite.com/)】【[DB Tools](http://www.whitetown.com/)】【[worktile](https://worktile.com)】【[站长工具](http://tool.chinaz.com/)】【[Unicode编码转换](http://tool.chinaz.com/Tools/Unicode.aspx)】【[云梯](https://www.yuntibit.com)】【[Bitbucket](https://bitbucket.org/)】【[Cocoa Docs](http://cocoadocs.org/)】【CocoaPods】【[Github](https://github.com/)】【[Open Hub](https://www.openhub.net/)】【[Code Project](http://www.codeproject.com/)】【[Code review](http://reviewcode.cn/)】【[free code camp](https://www.freecodecamp.org/)】【[CMD challenge](https://cmdchallenge.com/)】
 
 
 
@@ -287,7 +290,7 @@
 
 
 
-【[聚合数据平台](http://www.fenxi.com/)】【[APIStore百度](http://apistore.baidu.com/) 收费】【[京东万象](http://wx.jcloud.com/)】【[数据堂](http://www.datatang.com/) 收费】【[APIX](https://www.apix.cn) 有免费】【[通联数据](https://www.datayes.com/)】【[数据宝](https://www.chinadatapay.com)】【[极速数据](https://www.jisuapi.com)】【[HaoService](http://www.haoservice.com/)】【[和天气](https://www.heweather.com/) 优秀】【[API Providers](https://apigee.com/providers)】【】
+【[聚合数据平台](http://www.fenxi.com/)】【[APIStore百度](http://apistore.baidu.com/) 收费】【[京东万象](http://wx.jcloud.com/)】【[数据堂](http://www.datatang.com/) 收费】【[APIX](https://www.apix.cn) 有免费】【[通联数据](https://www.datayes.com/)】【[数据宝](https://www.chinadatapay.com)】【[极速数据](https://www.jisuapi.com)】【[HaoService](http://www.haoservice.com/)】【[和天气](https://www.heweather.com/) 优秀】【[API Providers](https://apigee.com/providers)】【[Rapid Api](https://rapidapi.com/)】【[Any api](https://any-api.com/)】
 
 
 
@@ -309,9 +312,9 @@
 
 
 
-【[sketch cn](http://sketchcn.com/)】【[sketch app sources](https://www.sketchappsources.com)】【[sketch cn](http://www.sketchs.cn/)】【[极客学院Sketch课程](http://www.jikexueyuan.com/course/sketch)】【[Sketch IM](http://sketch.im/)】【[Sketch news](http://sketchnews.co/)】
+【[sketch cn](http://sketchcn.com/)】【[sketch app sources](https://www.sketchappsources.com)】【[sketch cn](http://www.sketchs.cn/)】【[极客学院Sketch课程](http://www.jikexueyuan.com/course/sketch)】【[Sketch IM](http://sketch.im/)】【[Sketch news](http://sketchnews.co/)】【[38 Best Sketch 3 Design Tutorials](https://webdesignledger.com/sketch-3-design-tutorials/)】
 
-
+【[Sketch Documentation](https://www.sketchapp.com/docs/)】【[Awesome Sketch Plugins](https://awesome-sket.ch/)】
 
 ### 工具
 
@@ -319,13 +322,15 @@
 
 【 [在线颜色选择器 | RGB颜色查询对照表](http://www.atool.org/colorpicker.php)（[主站](http://www.atool.org/)）】【[make App icon](http://makeappicon.com/)】【[unocode emoji list](http://unicode.org/emoji/charts/full-emoji-list.html)】【[emojipedia](http://emojipedia.org/)】【[Emoji Unicode Tables](https://apps.timwhitlock.info/emoji/tables/unicode)  可查询UTF-8编码】
 
-
+【[emoji cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)】
 
 ### icon
 
 
 
-【[icons8](https://icons8.com/)】【[iconion](http://iconion.com/)】【[icon finder](https://www.iconfinder.com/)】【[icons to png](http://fa2png.io/)】【[Flaticon](http://www.flaticon.com/) 】【[iconfont](http://iconfont.cn/)】【[Font Awesome](http://fontawesome.io/)】
+【[icons8](https://icons8.com/)】【[iconion](http://iconion.com/)】【[icon finder](https://www.iconfinder.com/)】【[icons to png](http://fa2png.io/)】【[Flaticon](http://www.flaticon.com/) 】【[iconfont](http://iconfont.cn/)】【[Font Awesome](http://fontawesome.io/)】【[Fontello](http://fontello.com/)】【[weather icons](https://erikflowers.github.io/weather-icons/)】【[open icons](https://useiconic.com/open/)】【[svg icon](https://leungwensen.github.io/svg-icon/#ant)】
+
+【[Material Icons Guide](http://google.github.io/material-design-icons/)】【[GitHub's icons](https://octicons.github.com/)】【[stack icons](http://stackicons.com/)】【[iConvert  app icons](https://iconverticons.com/online/)】【[ionicons](http://ionicons.com/)】
 
 
 
@@ -341,7 +346,7 @@
 
 
 
-【[freepik](http://www.freepik.com/)】【[shutterstock](https://www.shutterstock.com)】【[Dribbble](https://dribbble.com/)】【[Capptivate](http://capptivate.co/)】【[Behance](https://www.behance.net/)】【[Mobile Design Patterns](http://pttrns.com/)】【[clker](http://www.clker.com/)】【[App Animations](http://www.appanimations.com/)】【[font squirrel](https://www.fontsquirrel.com/)】【[Free fonts](http://www.1001freefonts.com/)】【[Web Design](http://www.webdesignerdepot.com/)】【[UI4App](http://ui4app.com/)】【[background labs](http://www.backgroundlabs.com/)】【[iOS Design](https://designcode.io/)】【[awesome sketch](https://github.com/diessica/awesome-sketch)】【[awesome design](https://github.com/gztchan/awesome-design)】
+【[freepik](http://www.freepik.com/)】【[shutterstock](https://www.shutterstock.com)】【[Dribbble](https://dribbble.com/)】【[Capptivate](http://capptivate.co/)】【[Behance](https://www.behance.net/)】【[Mobile Design Patterns](http://pttrns.com/)】【[clker](http://www.clker.com/)】【[App Animations](http://www.appanimations.com/)】【[font squirrel](https://www.fontsquirrel.com/)】【[Free fonts](http://www.1001freefonts.com/)】【[Web Design](http://www.webdesignerdepot.com/)】【[UI4App](http://ui4app.com/)】【[background labs](http://www.backgroundlabs.com/)】【[iOS Design](https://designcode.io/)】【[awesome sketch](https://github.com/diessica/awesome-sketch)】【[awesome design](https://github.com/gztchan/awesome-design)】【[UI Temple](http://www.uitemple.com/)】【[UI Movement](https://uimovement.com)】
 
 
 
@@ -357,9 +362,9 @@
 
 
 
-【[新品啦](http://xinpinla.com/)】【[36氪 Next](http://next.36kr.com/posts)】【[Today](http://today.itjuzi.com/)】【[最美应用](http://zuimeia.com/) 】【[爱屁屁](http://www.appnz.com/)】【[少数派](http://sspai.com/) 】【 [AppShopper](http://appshopper.com/)】【[今日应用](http://www.qdaily.com/special_columns/22.html)】【[小众软件](http://www.appinn.com/) 】【[APP每日推送](http://appdp.com/) 】【[app solution](http://www.ifanr.com/app)】【 [Mind](http://mindstore.io/) 】【 [我造社区](http://www.tmtpost.com/trendmakers)】
+【[新品啦](http://xinpinla.com/)】【[36氪 Next](http://next.36kr.com/posts)】【[Today](http://today.itjuzi.com/)】【[最美应用](http://zuimeia.com/) 】【[爱屁屁](http://www.appnz.com/)】【[少数派](http://sspai.com/) 】【 [AppShopper](http://appshopper.com/)】【[今日应用](http://www.qdaily.com/special_columns/22.html)】【[小众软件](http://www.appinn.com/) 】【[APP每日推送](http://appdp.com/) 】【[app solution](http://www.ifanr.com/app)】【 [Mind](http://mindstore.io/) 】【 [我造社区](http://www.tmtpost.com/trendmakers)】【[slant](https://www.slant.co/)】【[workflow by 少数派](http://workflow.sspai.com/#/main/workflow)】
 
-
+【[alternative to](https://alternativeto.net/)】【[Bundle Hunt](https://bundlehunt.com/)  app bundle 优惠购买】 【[top ten reviews](http://www.toptenreviews.com/)】
 
 ### 限免
 
@@ -442,7 +447,7 @@
 
 
 
-【[Joomla](https://www.joomla.org/) 】【 [Magento](http://www.magentochina.org/) 】【[DNSPOD](https://www.dnspod.cn)】【[百度站长](http://zhanzhang.baidu.com/dashboard/index)】【[友言](http://www.uyan.cc/) 】【[友荐](http://www.ujian.cc/)  】【[XMPP](https://www.apachefriends.org/zh_cn/index.html)】【[多说](http://duoshuo.com/)】【[GoDaddy](www.godaddy.com)  】【 [CNZZ](http://www.cnzz.com/) 】【[友盟](http://www.umeng.com/) 】【  [Hexo](https://hexo.io/)   】【[Hexo Next 主题](http://theme-next.iissnan.com/getting-started.html)】【 [百度统计](http://tongji.baidu.com/) 】
+【[Joomla](https://www.joomla.org/) 】【 [Magento](http://www.magentochina.org/) 】【[DNSPOD](https://www.dnspod.cn)】【[百度站长](http://zhanzhang.baidu.com/dashboard/index)】【[友言](http://www.uyan.cc/) 】【[友荐](http://www.ujian.cc/)  】【[XMPP](https://www.apachefriends.org/zh_cn/index.html)】【[多说](http://duoshuo.com/)】【[GoDaddy](www.godaddy.com)  】【 [CNZZ](http://www.cnzz.com/) 】【[友盟](http://www.umeng.com/) 】【  [Hexo](https://hexo.io/)  [admin插件](https://jaredforsyth.com/hexo-admin/)  】【[Hexo Next 主题](http://theme-next.iissnan.com/getting-started.html)】【 [百度统计](http://tongji.baidu.com/) 】【[七牛](https://www.qiniu.com/)】【[hubpress.io](http://hubpress.io/?ref=producthunt) A web application to build your Blog on GitHub】【[阿里云](https://www.aliyun.com)】【[云梯](https://www.yuntiweb.com/)】
 
 
 
@@ -470,7 +475,7 @@
 
 【[The Programming Languages Beacon](http://www.lextrait.com/vincent/implementations.html) 】【 [typing](https://typing.io)】【 [MSDN资源收集](http://msdn.itellyou.cn/)】【[UML软件工程组织](http://www.uml.org.cn/) 】【 [IBM UML资源中心](http://www.ibm.com/developerworks/cn/rational/uml/) 】【 [IETF Documents](https://tools.ietf.org/html/) 】【[Tutorials Point](http://www.tutorialspoint.com/)】【[LintCode](http://www.lintcode.com/)】【 [Fenby](http://www.fenby.com/)  】【[Git Logs](http://www.gitlogs.com/resource-guides?ref=producthunt)】【[Stack Overflow](https://stackoverflow.com/)】【[Quora](https://www.quora.com/)】【[Segment Fault](https://segmentfault.com/)】【[Slant](https://segmentfault.com/)】【[Slide Share](http://www.slideshare.net/)】【 [Apache](http://apache.org/)】【[Open Source Initiative](https://opensource.org/)】
 
-
+【[Swaggerhub](https://swaggerhub.com)】【[Programming language index](https://langpop.corger.nl/)】【[tiobe language](https://www.tiobe.com/tiobe-index/)】【[stackshare](https://stackshare.io/)    Discover & discuss the best open source and SaaS tools】
 
 ***
 
@@ -508,7 +513,7 @@
 
 
 
-【[iOS 系统占比](https://developer.apple.com/support/app-store/)】【[Apple Official](https://forums.developer.apple.com/welcome) 】【[iOS 设备技术规格](https://support.apple.com/zh_CN/specs/iphone) 】【[iOS Developer Library](https://developer.apple.com/library/ios/navigation/#)】【 [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/)】【[Getting Started with LLDB](https://developer.apple.com/library/mac/documentation/IDEs/Conceptual/gdb_to_lldb_transition_guide/document/lldb-basics.html) 】【[xcodebuild man page](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/xcodebuild.1.html)】【 [Apple Search](https://developer.apple.com/search/) 】【[Degugging Support](https://developer.apple.com/support/debugging/) 】【[Code signning Support](https://developer.apple.com/support/code-signing/)】【[Certificates Support](https://developer.apple.com/support/certificates/) 】
+【[iOS 系统占比](https://developer.apple.com/support/app-store/)】【[Apple Official](https://forums.developer.apple.com/welcome) 】【[iOS 设备技术规格](https://support.apple.com/zh_CN/specs/iphone) 】【[iOS Developer Library](https://developer.apple.com/library/ios/navigation/#)】【 [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/)】【[Getting Started with LLDB](https://developer.apple.com/library/mac/documentation/IDEs/Conceptual/gdb_to_lldb_transition_guide/document/lldb-basics.html) 】【[xcodebuild man page](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/xcodebuild.1.html)】【 [Apple Search](https://developer.apple.com/search/) 】【[Degugging Support](https://developer.apple.com/support/debugging/) 】【[Code signning Support](https://developer.apple.com/support/code-signing/)】【[Certificates Support](https://developer.apple.com/support/certificates/) 】【[Noteskey](http://www.noteskey.com/) The quick reference guide to Apple's keynotes】
 
 
 
@@ -516,13 +521,20 @@
 
 
 
-【  [Reveal](http://revealapp.com/)	UI调试工具  】【[Launch Kit](https://launchkit.io/)】【[Apple Dev Download](https://developer.apple.com/downloads/)】【[APNs推送测试](http://www.pushwatch.com/apns/)】【[Apple API测试](https://www.osstatus.com)	Look up Apple API errors fast! 】【 [APNs推送测试](http://apns-gcm.bryantan.info/)】【[Infer](http://fbinfer.com/) （[中文](http://infer.liaohuqiu.net/docs/getting-started.html)）代码静态分析工具】【 [Safedk](https://www.safedk.com/) 	Find the Best SDK for You!  】【[xamarin](https://www.xamarin.com) 	移动跨平台开发解决方案】【 [苹果开发者联盟](http://www.iosappx.com/)	中文互联网最大的苹果开发资源归类网站 】
-
-
+【  [Reveal](http://revealapp.com/)	UI调试工具  】【[Launch Kit](https://launchkit.io/)】【[Apple Dev Download](https://developer.apple.com/downloads/)】【[APNs推送测试](http://www.pushwatch.com/apns/)】【[Apple API测试](https://www.osstatus.com)	Look up Apple API errors fast! 】【 [APNs推送测试](http://apns-gcm.bryantan.info/)】【[Infer](http://fbinfer.com/) （[中文](http://infer.liaohuqiu.net/docs/getting-started.html)）代码静态分析工具】【 [Safedk](https://www.safedk.com/) 	Find the Best SDK for You!  】【[xamarin](https://www.xamarin.com) 	移动跨平台开发解决方案】【 [苹果开发者联盟](http://www.iosappx.com/)	中文互联网最大的苹果开发资源归类网站 】【[ASO100](https://aso100.com/) app 营销】【[appannie](https://www.appannie.com/cn/) app营销】
+【[ios developer tools](https://iosdev.tools/)】
 
 ### 源码
 
-【[SDWebimage](https://bpoplauschi.wordpress.com/2014/03/21/ios-image-caching-sdwebimage-vs-fastimage/)】【 [SDWebimage](http://iphonedevsdk.com/forum/iphone-sdk-development/119971-downloading-multiple-images-with-sdwebimage-and-notify-when-finished.html)】
+【[SDWebimage](https://bpoplauschi.wordpress.com/2014/03/21/ios-image-caching-sdwebimage-vs-fastimage/)】【 [SDWebimage](http://iphonedevsdk.com/forum/iphone-sdk-development/119971-downloading-multiple-images-with-sdwebimage-and-notify-when-finished.html)】【[GNU](http://wwwmain.gnustep.org/)】
+
+【[apple open source](https://opensource.apple.com/)】
+
+
+
+### 虚假信息
+
+SMS:【[1](https://getfreesmsnumber.com/)  好用】【[2](https://www.receivesmsonline.net/)】【[3](https://www.receive-sms.com/)】
 
 
 
@@ -530,7 +542,7 @@
 
 
 
-## Github
+##  Github
 
 
 
@@ -538,7 +550,7 @@
 
 
 
-【[GitHut](http://githut.info/)	 A SMALL PLACE TO DISCOVER LANGUAGES IN GITHUB】【[Gist box](https://app.gistboxapp.com)】【[omniref](https://www.omniref.com/)	Intelligent annotation for your source code.】【[First Aid git](http://firstaidgit.io/)	the most frequently asked questions about git issues】【[Pro Git v2 中文版](http://wiki.jikexueyuan.com/project/pro-git-two/)】【[GitHuber](http://githuber.info/)】【[GitHub Ranking](https://github-ranking.com)	GitHub star ranking for users, organizations and repositories.】【[Octicons icons](http://fa2png.io/r/octicons/)】【[shields io](http://shields.io/) 生成readme.md图标】【[CODELF	](http://unbug.github.io/codelf/)Search over projects from GitHub, Bitbucket, Google Code and more to find】【[Github Awards](http://github-awards.com/)】【[Gist box](https://app.gistboxapp.com)】【[Github Hunter](https://octohunt.com/)	Find Developer on github】【[GitHub Reviews](https://githubreviews.com/)】
+【[GitHut](http://githut.info/)	 A SMALL PLACE TO DISCOVER LANGUAGES IN GITHUB】【[Gist box](https://app.gistboxapp.com)】【[omniref](https://www.omniref.com/)	Intelligent annotation for your source code.】【[First Aid git](http://firstaidgit.io/)	the most frequently asked questions about git issues】【[Pro Git v2 中文版](http://wiki.jikexueyuan.com/project/pro-git-two/)】【[GitHuber](http://githuber.info/)】【[GitHub Ranking](https://github-ranking.com)	GitHub star ranking for users, organizations and repositories.】【[Octicons icons](http://fa2png.io/r/octicons/)】【[shields io](http://shields.io/) 生成readme.md图标】【[CODELF	](http://unbug.github.io/codelf/)Search over projects from GitHub, Bitbucket, Google Code and more to find】【[Github Awards](http://github-awards.com/)】【[Gist box](https://app.gistboxapp.com)】【[Github Hunter](https://octohunt.com/)	Find Developer on github】【[GitHub Reviews](https://githubreviews.com/)】【[Codetrace](https://codetrace.io)  Your Code Defines Your Skills】
 
 
 
@@ -586,11 +598,33 @@
 
 
 
+#### 1.软件
+
 【[Alfred 3](http://www.alfredworkflow.com/)】【[Noizio](http://noiz.io/)】【[Sketch](https://www.sketchapp.com/)   [中文](http://www.sketchcn.com/)】【[Bartender](http://ww.macbartender.com/)】【[Ulysses](http://www.ulyssesapp.com/)】【[Xmind](http://www.xmind.net/)】【[SublimeText](http://www.sublimetext.com/)】【Qbserve】【Tuxera NTFS】【xScope】【XtraFinder】【MacDown】【[VimR](http://vimr.org/)】【[KeyCue](http://www.ergonis.com/products/keycue/)】【[WWDC](https://github.com/insidegui/WWDC)】【[Boom](http://www.globaldelight.com/)】【[Capo](http://supermegaultragroovy.com/products/capo/)】【[EarMaster](http://www.earmaster.com/)】【[HandBrake](https://handbrake.fr/)】【[ScreenFlow](http://www.telestream.net/screenflow/overview.htm)】【[AirServer](http://www.airserver.com/)】【[Manico](https://manico.im/)】【[Bartender](http://ww.macbartender.com/)】【[BetterTouchTool](https://www.boastr.net/)】【[Contexts](https://contexts.co/)】【[TeamViewer](https://www.teamviewer.com/zhcn/download/mac/)】【[Icon Slate](http://www.kodlian.com/)】【[Ultraedit](http://www.ultraedit.com/products/mac-text-editor.html)】【CoreAnimator】【PaintCode】【PlistEditPro】【Snippet Edit】【QuartzCode】【SecureCRT】【VisualDiffer】【SqliteBrowser】【TinkerTool】【WebServerPreferencePane】【CakeBrew】【DictUnifier】【FauxPas】【Paw】【Reveal】【SparkInspector】【Symbolicate】【Wireshark】【SimPholders】【Snagit】【TabLauncher】【TextWrangler】【uBar】【LittleSnitch】【Flux】【Fantastical】
 
-
-
 【[Packal](http://www.packal.org/) Alfred workflow】【[Alfred Foums](https://www.alfredforum.com)】
+
+
+
+#### 2.评测社区
+
+
+
+【 [Mac玩儿法](https://www.waerfa.com/)】 【[麦创网](http://www.memacx.com/)】
+
+
+
+
+
+### iOS
+
+【[AppShopper]( http://appshopper.com/)】
+
+
+
+### Android
+
+【 [APK Downloader](https://apps.evozi.com/apk-downloader/)	Play 下载 APK】
 
 ### Windows
 
@@ -604,10 +638,24 @@
 
 
 
-【[麦创网](http://www.memacx.com/)  】【[XY苹果助手](http://www.xyzs.com/)】【[爱情守望者](http://www.waitsun.com/) 】【[91苹果下载](http://app.91.com/) 	 ipa 下载】【[ipa下载](http://www.iapp001.com/)】
+【[爱情守望者](http://www.waitsun.com/) 】【[91苹果下载](http://app.91.com/) ipa 下载】【[ipa下载](http://www.iapp001.com/)】【[Xclient](http://xclient.info/)】【[CMacapps](https://cmacapps.com)】【[mac-torrents](http://mac-torrents.com/)】
+
+【[NMac](https://nmac.to/)】【[mac-torrent](mac-torrent-download.net)】
 
 
 
 ### Help
 
 【[Mac 键盘快捷键](https://support.apple.com/zh-cn/HT201236)】
+
+【[XIDEA.ONLINEFree JetBrains Products License Server](http://xidea.online/)】
+
+
+
+
+
+## 自媒体与阅读
+
+
+
+[氢弹](https://www.qingdan.us/) 
