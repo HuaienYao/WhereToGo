@@ -176,11 +176,6 @@
 【[Gutenberg](http://www.gutenberg.org/)		Project Gutenberg offers over 50,000 free ebooks: choose among free epub books, free kindle books, download them or read them online.】
 
 
-
-【[EBOOKSBUCKET](http://www.ebooksbucket.com/)		Free PDF eBooks to Read Online and Download for Students, Developers, Engineers and every kind of reader.】
-
-
-
 【[GetFreeEbooks](http://www.getfreeebooks.com/)		brings both authors and readers into the world of free legal ebooks】
 
 
